@@ -1,0 +1,4 @@
+# auto-downloaded face detection model
+ig4_detail/models/
+__pycache__/
+*.pyc

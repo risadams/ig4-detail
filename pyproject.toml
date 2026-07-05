@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-ig4-detail"
+description = "Drop-in detail enhancer for Ideogram 4 outputs: realistic skin texture, crisp eyes, hair strand detail, clarity, sharpening and film grain."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = ["numpy>=1.24", "opencv-python>=4.8"]
+
+[project.urls]
+Repository = "https://github.com/risadams/ig4-detail"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "IG4 Detail Enhancer (Ideogram 4)"
+Icon = ""
